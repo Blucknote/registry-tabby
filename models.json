@@ -4,7 +4,7 @@
     "provider_url": "https://huggingface.co/TheBloke/evolvedSeeker_1_3-GGUF",
     "license_name": "ololo",
     "license_url": "none",
-    "prompt_template": "<|im_start|>user\n{prefix}\n{suffix}<|im_end|>",
+    "prompt_template": "<｜fim▁begin｜>{prefix}<｜fim▁hole｜>{suffix}<｜fim▁end｜>",
     "urls": [
         "https://huggingface.co/TheBloke/evolvedSeeker_1_3-GGUF/resolve/main/evolvedseeker_1_3.Q8_0.gguf"
     ],
