@@ -1,5 +1,16 @@
 [
   {
+    "name": "EvolvedSeeker-1.3B",
+    "provider_url": "https://huggingface.co/TheBloke/evolvedSeeker_1_3-GGUF",
+    "license_name": "ololo",
+    "license_url": "none",
+    "prompt_template": "<|im_start|>{prefix}<|im_end|><|im_start|>{suffix}<|im_end|>",
+    "urls": [
+        "https://huggingface.co/TheBloke/evolvedSeeker_1_3-GGUF/resolve/main/evolvedseeker_1_3.Q8_0.gguf",
+    ],
+    "sha256": "bb0411c0087d80b9b5ad3cb52c1a9b9db1e59112652ecd6884e0d287372c78a2"
+  },
+  {
     "name": "StarCoder-1B",
     "provider_url": "https://huggingface.co/bigcode/starcoderbase-1b",
     "license_name": "BigCode-OpenRAIL-M",
